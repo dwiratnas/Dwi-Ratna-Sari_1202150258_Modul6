@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "19390365940",
+    "firebase_url": "https://android-modul6-1ffd6.firebaseio.com",
+    "project_id": "android-modul6-1ffd6",
+    "storage_bucket": "android-modul6-1ffd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19390365940:android:c1c3158331b1cf2a",
+        "android_client_info": {
+          "package_name": "e.android.dwiratna_1202150258_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19390365940-n4f5pvvaf0fp5cdkj7fdnvspg2h2k6c3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjazO1SGkF5gwwuCiVHQ1MwAFg4U2M3xc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
